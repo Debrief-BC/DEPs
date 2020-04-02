@@ -1,2 +1,2 @@
-# DEPs
-Debrief Enhancement Proposals (DEPs)
+# Debrief Enhancement Proposals
+
